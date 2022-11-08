@@ -8,4 +8,7 @@ Course assignments for practising Angular
 ![grafik](https://user-images.githubusercontent.com/34483983/200628711-f639eb45-eb05-4fab-818a-cb09bd178eaf.png)
 
 ## Exercise 03 - practising directives
-![grafik](https://user-images.githubusercontent.com/34483983/200628939-a7845942-cc11-4810-aede-1ad6725f33e2.png)
+![grafik](https://user-images.githubusercontent.com/34483983/200633965-b265277c-8dc9-4108-a382-cd215d86e306.png)
+
+## Exercise 04 - practising properly- and eventbinding & view encapsulation
+![grafik](https://user-images.githubusercontent.com/34483983/200634246-6e0877cb-0751-4b17-9746-3ead1e413b1b.png)
