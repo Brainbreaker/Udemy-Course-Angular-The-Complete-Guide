@@ -12,3 +12,6 @@ Course assignments for practising Angular
 
 ## Exercise 04 - practising properly- and eventbinding & view encapsulation
 ![grafik](https://user-images.githubusercontent.com/34483983/200634246-6e0877cb-0751-4b17-9746-3ead1e413b1b.png)
+
+## Exercise 05 - practising services
+![grafik](https://user-images.githubusercontent.com/34483983/200637046-f5f4af98-092f-4bc2-b660-6cccbc2168b1.png)
