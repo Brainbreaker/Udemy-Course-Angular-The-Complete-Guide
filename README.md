@@ -15,3 +15,6 @@ Course assignments for practising Angular
 
 ## Exercise 05 - practising services
 ![grafik](https://user-images.githubusercontent.com/34483983/200637046-f5f4af98-092f-4bc2-b660-6cccbc2168b1.png)
+
+## Section - components & databinding - deep dive
+![grafik](https://user-images.githubusercontent.com/34483983/200639432-a0905037-4b05-4074-bca2-9e48edf453a1.png)
