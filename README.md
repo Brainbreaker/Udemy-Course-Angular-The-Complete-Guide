@@ -18,3 +18,6 @@ Course assignments for practising Angular
 
 ## Section - components & databinding - deep dive
 ![grafik](https://user-images.githubusercontent.com/34483983/200639432-a0905037-4b05-4074-bca2-9e48edf453a1.png)
+
+## Section - directives - deep dive
+![grafik](https://user-images.githubusercontent.com/34483983/200641993-dc9aa7f6-317f-499e-ae31-57e85f544d73.png)
