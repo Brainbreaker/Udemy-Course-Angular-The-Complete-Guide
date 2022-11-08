@@ -1,4 +1,4 @@
-# Assigment2
+# Exercise 02 - practising databinding
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
 
